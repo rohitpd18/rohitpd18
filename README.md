@@ -42,7 +42,7 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:rohtipd8101@gmail.com'>rohtipd8101@gmail.com</a>
+  📫 How to reach me: <a href='mailto:rohitpd8101@gmail.com'>rohitpd8101@gmail.com</a>
 </p>
 <!-- <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
