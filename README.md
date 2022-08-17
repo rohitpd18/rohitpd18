@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rohitpd18.github.io/my-protfolio/)
 <h1 align="center">Hi 👋, I'm Rohit Prasad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-5019745-4183732.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitpd18&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpd18" /> </p>
