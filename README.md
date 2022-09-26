@@ -1,6 +1,4 @@
-<p align="center">
-  ![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
-<p>
+![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Rohit Prasad</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-5019745-4183732.png">
